@@ -97,14 +97,19 @@ GEM
     method_source (1.0.0)
     mimemagic (0.3.5)
     mini_mime (1.0.2)
+
+
     mini_portile2 (2.5.0)
+
     minitest (5.14.3)
     msgpack (1.4.2)
     mysql2 (0.5.3)
     nio4r (2.5.5)
+
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+
     nokogiri (1.11.1-x86_64-darwin)
       racc (~> 1.4)
     pry (0.14.0)
@@ -151,7 +156,9 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    regexp_parser (2.0.3)
+
+    regexp_parser (2.1.1)
+
     ruby_dep (1.5.0)
     rubyzip (2.3.0)
     sass-rails (6.0.0)
@@ -207,7 +214,10 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+
+
   ruby
+
   x86_64-darwin-20
 
 DEPENDENCIES
@@ -234,4 +244,6 @@ RUBY VERSION
    ruby 2.6.5p114
 
 BUNDLED WITH
-   2.2.0
+
+   2.2.9
+
